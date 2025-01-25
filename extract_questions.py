@@ -15,10 +15,14 @@ def extract_questions(html_content):
             serial = serial_span.text.strip()
             question_data['题号'] = serial.replace('.', '')
             
-            # 提取题目
-            question_text = serial_span.find_next_sibling(text=True)
-            if question_text:
-                question_data['题目'] = question_text.strip()
+            # 提取题目 - 查找题目文本
+            question_span = serial_span.find_next_sibling('span')
+            if question_span:
+                # 获取题目文本并清理
+                question_text = question_span.get_text(separator=' ').strip()
+                # 去除多余空白
+                question_text = ' '.join(question_text.split())
+                question_data['题目'] = question_text
             else:
                 question_data['题目'] = ''
         else:
