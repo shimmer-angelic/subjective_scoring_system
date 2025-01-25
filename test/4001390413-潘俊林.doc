@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- 上述3个meta标签*必须*放在最前面，任何其他内容都*必须*跟随其后！ -->
+  <title>潘俊林---考生作答详情</title>
+
+  <!-- Bootstrap -->
+
+  <!-- HTML5 shim 和 Respond.js 是为了让 IE8 支持 HTML5 元素和媒体查询（media queries）功能 -->
+  <!-- 警告：通过 file:// 协议（就是直接将 html 页面拖拽到浏览器中）访问页面时 Respond.js 不起作用 -->
+  <!--[if lt IE 9]>
+
+    <![endif]-->
+  <script src="https://examadmin.weicewang.com/js/html5shiv.min.js"></script>
+  <script src="https://examadmin.weicewang.com/js/respond.min.js"></script>
+  <style>
+    .header {
+      text-align: center;
+      font-size: 22px;
+    }
+
+    .row {
+      text-align: center;
+    }
+
+    .row div:nth-child(2) {
+      margin-left: 100px;
+    }
+
+
+    /*表格样式*/
+    table {
+      width: 90%;
+      background: #ccc;
+      margin: 22px auto;
+      /* border-collapse: collapse; */
+      /*border-collapse:collapse合并内外边距(去除表格单元格默认的2个像素内外边距*/
+      border-collapse: collapse;
+      border: none;
+    }
+
+    th,
+    td {
+
+      text-align: center;
+      border: solid#000 1px;
+      line-height: 25px;
+    }
+
+
+
+    th {
+      background: #eee;
+      font-weight: normal;
+    }
+
+    tr {
+      background: #fff;
+    }
+
+    td a {
+      color: #06f;
+      text-decoration: none;
+    }
+
+    td p {
+      margin: 8px;
+    }
+
+    tr .td1,
+    .td3 {
+      color: black;
+      font-weight: bold;
+
+    }
+
+
+    tr .td2,
+    .td4 {
+      width: 37%;
+    }
+
+    .topic {
+      width: 90%;
+      margin: 0 auto;
+      font-size: 18.66px;
+    }
+
+    .serial {
+      /* font-weight: 600; */
+    }
+
+    .option {
+      margin-top: 6px;
+      padding-left: 21px;
+    }
+
+    .respondence {
+      padding-left: 21px;
+    }
+
+    .score {
+      padding-left: 21px;
+      margin-top: 6px;
+    }
+
+    .containers {
+      width: 90%;
+      margin: 11px auto 22px;
+    }
+
+    .inersspan {
+      width: 90%;
+      /* font-size: 14px; */
+      margin: 0 auto;
+      font-size: 18.66px;
+    }
+  </style>
+</head>
+
+<body>
+  <br />
+  <h3 class="header">四川省场道工程有限公司2025年岗位专业能力测试—造价类&nbsp;(潘俊林)</h3>
+
+
+  <div class="inersspan">登录账号: <span>4001390413</span> </div>
+  <div class="inersspan">身份证号: <span>513723198407250151</span> </div>
+  <div class="inersspan">手机号码: <span>18583921870</span> </div>
+  <div class="inersspan">离屏次数: <span>4</span> </div>
+  <div class="inersspan">综合得分: <span>31.5</span> </div>
+
+  <br />
+
+
+
+<h3 class="header">单选题</h3><br/><div class="topic"><div><span class="serial">1.</span><span>根据公司制度，工程竣工后三个月内应完成的内容有（    ） 【单选题】</span></div><div class="option"><div class="optionitem">A.<span>内部结算、成本锁定、结算策划、签订竣工结算责任书</span></div><div class="optionitem">B.<span>内部结算、成本锁定、结算策划、</span></div><div class="optionitem">C.<span>内部结算、成本锁定、签订竣工结算责任书</span></div><div class="optionitem">D.<span>内部结算、成本锁定</span></div></div><div class="respondence"><span>考生作答:</span> <span>A</span></div><div class="respondence"><span>考生得分:</span> <span>1.00</span></div></div><br><br><br/><div class="topic"><div><span class="serial">2.</span><span>根据《民航专业工程安全生产费用管理办法（试行）的通知》中的约定，以下哪项费用不属于民航专业安全生产费（    ） 【单选题】</span></div><div class="option"><div class="optionitem">A.<span>完善、改造和维护安全防护设施设备支出</span></div><div class="optionitem">B.<span>配备应急救援器材</span></div><div class="optionitem">C.<span>安全生产宣传、教育、培训支出</span></div><div class="optionitem">D.<span>按正常施工作业设置的基坑维护、防失稳支撑等</span></div></div><div class="respondence"><span>考生作答:</span> <span>D</span></div><div class="respondence"><span>考生得分:</span> <span>1.00</span></div></div><br><br><br/><div class="topic"><div><span class="serial">3.</span><span>公司成本管理实施细则中规定分公司（    ）至少组织或参加项目成本分析会一次；项目部（    ）组织召开成本分析会。 【单选题】</span></div><div class="option"><div class="optionitem">A.<span>3个月；1个月</span></div><div class="optionitem">B.<span>4个月；1个月</span></div><div class="optionitem">C.<span>4个月；4个月</span></div><div class="optionitem">D.<span>1个月；1个月</span></div></div><div class="respondence"><span>考生作答:</span> <span>A</span></div><div class="respondence"><span>考生得分:</span> <span>1.00</span></div></div><br><br><br/><div class="topic"><div><span class="serial">4.</span><span>关于安全生产费成本在善建云系统中的录入方式说法不正确的是（    ） 【单选题】</span></div><div class="option"><div class="optionitem">A.<span>分包和机械租赁通过项目管理系统--中间计量方式录入</span></div><div class="optionitem">B.<span>材料通过项目管理系统--出库方式录入</span></div><div class="optionitem">C.<span>材料通过项目管理系统--出库和中间计量方式录入</span></div><div class="optionitem">D.<span>安全生产费零星支出（如，不停航施工办证、安责险）通过财务共享系统--费用报销--安全生产费使用方式录入</span></div></div><div class="respondence"><span>考生作答:</span> <span>B</span></div><div class="respondence"><span>考生得分:</span> <span>0.00</span></div></div><br><br><br/><div class="topic"><div><span class="serial">5.</span><span>根据公司成本管理实施细则要求，项目报送目标成本预算的时间为（    ） 【单选题】</span></div><div class="option"><div class="optionitem">A.<span>项目开工后或项目经理竞聘后45日内，最迟不超过3个月</span></div><div class="optionitem">B.<span>项目开工后3个月内（以开工报告时间为准）</span></div><div class="optionitem">C.<span>项目开工后或项目经理竞聘后3个月内 ，以晚发生时间为准</span></div><div class="optionitem">D.<span>项目开工后或项目经理竞聘后3个月内 ，以早发生时间为准</span></div></div><div class="respondence"><span>考生作答:</span> <span>C</span></div><div class="respondence"><span>考生得分:</span> <span>0.00</span></div></div><br><br><br/><div class="topic"><div><span class="serial">6.</span><span>项目竣工结算完成后（    ）内应报送结算总结与成本分析资料。 【单选题】</span></div><div class="option"><div class="optionitem">A.<span>3个月</span></div><div class="optionitem">B.<span>6个月</span></div><div class="optionitem">C.<span>1个月</span></div><div class="optionitem">D.<span>及时</span></div></div><div class="respondence"><span>考生作答:</span> <span>C</span></div><div class="respondence"><span>考生得分:</span> <span>0.00</span></div></div><br><br><br/><div class="topic"><div><span class="serial">7.</span><span>《建设工程工程量清单计价规范》(GBT50353-2013),关于项目特征，说法正确的是（    ）。 【单选题】</span></div><div class="option"><div class="optionitem">A.<span>项目特征是编制工程量清单的基础</span></div><div class="optionitem">B.<span>项目特征是确定工程内容的核心</span></div><div class="optionitem">C.<span>项目特征是项目自身价值的本质特征</span></div><div class="optionitem">D.<span>项目特征工程结算的关键依据</span></div></div><div class="respondence"><span>考生作答:</span> <span>A</span></div><div class="respondence"><span>考生得分:</span> <span>0.00</span></div></div><br><br><br/><div class="topic"><div><span class="serial">8.</span><span>公司直管项目分供方结算金额在300万到1000万元，最终审核节点（    ）。 【单选题】</span></div><div class="option"><div class="optionitem">A.<span>运营部过控</span></div><div class="optionitem">B.<span>运营部部长</span></div><div class="optionitem">C.<span>运营部分管领导</span></div><div class="optionitem">D.<span>总经理</span></div></div><div class="respondence"><span>考生作答:</span> <span>D</span></div><div class="respondence"><span>考生得分:</span> <span>0.00</span></div></div><br><br><br/><div class="topic"><div><span class="serial">9.</span><span>目标成本预算编制时间最长不超过（    ）。 【单选题】</span></div><div class="option"><div class="optionitem">A.<span>1个月</span></div><div class="optionitem">B.<span>45d</span></div><div class="optionitem">C.<span>3个月</span></div><div class="optionitem">D.<span>6个月</span></div></div><div class="respondence"><span>考生作答:</span> <span>C</span></div><div class="respondence"><span>考生得分:</span> <span>1.00</span></div></div><br><br><br/><div class="topic"><div><span class="serial">10.</span><span>项目应该按（    ）召开成本分析会，并由（    ）组织召开，项目关键岗位人员应针对本岗位目标成本责任进行对比分析。 【单选题】</span></div><div class="option"><div class="optionitem">A.<span>月度，项目经理</span></div><div class="optionitem">B.<span>月度，商务经理</span></div><div class="optionitem">C.<span>季度，项目经理</span></div><div class="optionitem">D.<span>季度，商务经理</span></div></div><div class="respondence"><span>考生作答:</span> <span>A</span></div><div class="respondence"><span>考生得分:</span> <span>1.00</span></div></div><br><br><br/><div class="topic"><div><span class="serial">11.</span><span>成本锁定应在工程竣工后（    ）完成审批，内部结算应在工程竣工后（    ）完成审批 【单选题】</span></div><div class="option"><div class="optionitem">A.<span>3个月，6个月</span></div><div class="optionitem">B.<span>3个月，3个月</span></div><div class="optionitem">C.<span>6个月，3个月</span></div><div class="optionitem">D.<span>6个月，6个月</span></div></div><div class="respondence"><span>考生作答:</span> <span>B</span></div><div class="respondence"><span>考生得分:</span> <span>1.00</span></div></div><br><br><br/><div class="topic"><div><span class="serial">12.</span><span>按招标工程量清单中标的工程，应在开工后或者图纸下发后（    ）复核施工图预算（清标预算），做为成本预算编制的基础。 【单选题】</span></div><div class="option"><div class="optionitem">A.<span>1个月</span></div><div class="optionitem">B.<span>45d</span></div><div class="optionitem">C.<span>2个月</span></div><div class="optionitem">D.<span>3个月</span></div></div><div class="respondence"><span>考生作答:</span> <span>A</span></div><div class="respondence"><span>考生得分:</span> <span>1.00</span></div></div><br><br><br/><div class="topic"><div><span class="serial">13.</span><span>关于索赔的时限，无合同约定时，需在确认引起索赔的事件发生后（    ）天内向发包人发出索赔通知，在确认引起索赔的事件发生后（    ）天内，向发包人递交详细的索赔报告，并要求发包人在（    ）天内作出回应。 【单选题】</span></div><div class="option"><div class="optionitem">A.<span>28,28,28</span></div><div class="optionitem">B.<span>14,28,14</span></div><div class="optionitem">C.<span>14,14,14</span></div><div class="optionitem">D.<span>28,42,28</span></div></div><div class="respondence"><span>考生作答:</span> <span>C</span></div><div class="respondence"><span>考生得分:</span> <span>0.00</span></div></div><br><br><br/><div class="topic"><div><span class="serial">14.</span><span>关于项目民航专业安全生产费以下正确的是（    ）。 【单选题】</span></div><div class="option"><div class="optionitem">A.<span>工程结算时，未计量部分在办理结算时支付</span></div><div class="optionitem">B.<span>合同工期在一年以内的，建设单位预付的安全生产费不低于该费用总和的60%</span></div><div class="optionitem">C.<span>因发生重大设计变更，施工单位投入安全生产费用总额与合同约定不一致时，不调整</span></div><div class="optionitem">D.<span>在竞标时，安全生产费不得删减，不得作为竞争性报价，列入标外管理。</span></div></div><div class="respondence"><span>考生作答:</span> <span>D</span></div><div class="respondence"><span>考生得分:</span> <span>1.00</span></div></div><br><br><br/><div class="topic"><div><span class="serial">15.</span><span>关于工程项目现场签证，下列说法错误的是（    ）。 【单选题】</span></div><div class="option"><div class="optionitem">A.<span>现场签证是工程结算的重要依据</span></div><div class="optionitem">B.<span>凡是监理、业主签字、盖章完善的的签证都可以取得收入</span></div><div class="optionitem">C.<span>业主要求额外增加的合同外工作内容可以办理现场签证</span></div><div class="optionitem">D.<span>单笔签证单（或索赔）预估金额在100万元以上的由项目经理报公司或分（子）公司造价管理部门复核方可报出。</span></div></div><div class="respondence"><span>考生作答:</span> <span>B</span></div><div class="respondence"><span>考生得分:</span> <span>1.00</span></div></div><br><br><br/><div class="topic"><div><span class="serial">16.</span><span>根据公司制度，工程竣工后三个月内应完成的内容有（    ）。 【单选题】</span></div><div class="option"><div class="optionitem">A.<span>内部结算、成本锁定、结算策划、签订竣工结算责任书</span></div><div class="optionitem">B.<span>部结算、成本锁定、结算策划、</span></div><div class="optionitem">C.<span>内部结算、成本锁定、签订竣工结算责任书</span></div><div class="optionitem">D.<span>内部结算、成本锁定</span></div></div><div class="respondence"><span>考生作答:</span> <span>A</span></div><div class="respondence"><span>考生得分:</span> <span>1.00</span></div></div><br><br><br/><div class="topic"><div><span class="serial">17.</span><span>公司造价管理实施细则中关于内部结算，以下说法错误的是（    ）。 【单选题】</span></div><div class="option"><div class="optionitem">A.<span>承包项目中若有甲供材料、设备、半成品等不得进入内部结算。</span></div><div class="optionitem">B.<span>招标文件中暂估价、暂列金额等不得进入内部结算。</span></div><div class="optionitem">C.<span>经济签证、工程变更按项目实际发生成本进入内部结算。</span></div><div class="optionitem">D.<span>竣工项目应在竣工后3个月内完成内部结算。</span></div></div><div class="respondence"><span>考生作答:</span> <span>B</span></div><div class="respondence"><span>考生得分:</span> <span>0.00</span></div></div><br><br><br/><div class="topic"><div><span class="serial">18.</span><span>关于公司竣工未结算报表的填报，以下说法错误的是（    ）。 【单选题】</span></div><div class="option"><div class="optionitem">A.<span>每个季度除更新结算进展情况，其他数据有变化的也应更新。</span></div><div class="optionitem">B.<span>内部结算填含税金额</span></div><div class="optionitem">C.<span>成本锁定填不含税金额</span></div><div class="optionitem">D.<span>内部结算未办理的填预计金额。</span></div></div><div class="respondence"><span>考生作答:</span> <span>B</span></div><div class="respondence"><span>考生得分:</span> <span>0.00</span></div></div><br><br><br/><div class="topic"><div><span class="serial">19.</span><span>针对生产资源采购，下列达到哪项必须公开招标（    ）。 【单选题】</span></div><div class="option"><div class="optionitem">A.<span>全部</span></div><div class="optionitem">B.<span>50万以上</span></div><div class="optionitem">C.<span>100万以上</span></div><div class="optionitem">D.<span>200万以上</span></div></div><div class="respondence"><span>考生作答:</span> <span>B</span></div><div class="respondence"><span>考生得分:</span> <span>0.00</span></div></div><br><br><br/><div class="topic"><div><span class="serial">20.</span><span>项目部可直接报账的单笔采购限额（    ）。 【单选题】</span></div><div class="option"><div class="optionitem">A.<span>1000元</span></div><div class="optionitem">B.<span>2000元</span></div><div class="optionitem">C.<span>3000元</span></div><div class="optionitem">D.<span>5000元</span></div></div><div class="respondence"><span>考生作答:</span> <span>C</span></div><div class="respondence"><span>考生得分:</span> <span>0.00</span></div></div><br><br><br/><div class="topic"><div><span class="serial">21.</span><span>履约保证金最合理的缴纳方式是（    ）。 【单选题】</span></div><div class="option"><div class="optionitem">A.<span>全部缴纳至集采公司</span></div><div class="optionitem">B.<span>全部缴纳至公司</span></div><div class="optionitem">C.<span>缴纳集采公司（投标保证金金额自动转存）+缴纳公司（剩余应缴履约金金额）结合方式。</span></div></div><div class="respondence"><span>考生作答:</span> <span>C</span></div><div class="respondence"><span>考生得分:</span> <span>1.00</span></div></div><br><br><br/><div class="topic"><div><span class="serial">22.</span><span>下列哪项属于供应链支付方式（    ）。 【单选题】</span></div><div class="option"><div class="optionitem">A.<span>银行承兑汇票</span></div><div class="optionitem">B.<span>招行保贴商票</span></div><div class="optionitem">C.<span>实物资产</span></div><div class="optionitem">D.<span>商业承兑汇票</span></div></div><div class="respondence"><span>考生作答:</span> <span>D</span></div><div class="respondence"><span>考生得分:</span> <span>0.00</span></div></div><br><br><br/><div class="topic"><div><span class="serial">23.</span><span>下列视为投标人相互串通投标的情形有哪些（    ）。 【单选题】</span></div><div class="option"><div class="optionitem">A.<span>属于同一集团、协会、商会等组织成员的投标人按照该组织要求协同投标</span></div><div class="optionitem">B.<span>不同投标人委托同一单位办理投标</span></div><div class="optionitem">C.<span>单位负责人为同一人或者存在控股、管理关系的不同单位参加同一招标项目不同标段的投标</span></div><div class="optionitem">D.<span>不同投标人的投标总报价相近</span></div></div><div class="respondence"><span>考生作答:</span> <span>B</span></div><div class="respondence"><span>考生得分:</span> <span>1.00</span></div></div><br><br><h3 class="header">多选题</h3><br/><div class="topic"><div><span class="serial">1.</span><span>分供商必须为一般纳税人的有（    ） 【多选题】</span></div><div class="option"><div class="optionitem">A.<span>钢材</span></div><div class="optionitem">B.<span>安装线缆</span></div><div class="optionitem">C.<span>机械设备安拆</span></div><div class="optionitem">D.<span>大型机械设备租赁（暂定为塔机、施工电梯）</span></div><div class="optionitem">E.<span>土建大宗商砼</span></div></div><div class="respondence"><span>考生作答:</span> <span>ABCDE</span></div><div class="respondence"><span>考生得分:</span> <span>0.00</span></div></div><br><br><br/><div class="topic"><div><span class="serial">2.</span><span>目前集团纳入集采集供范围采购有哪些（    ）。 【多选题】</span></div><div class="option"><div class="optionitem">A.<span>商砼（区域：成都）</span></div><div class="optionitem">B.<span>木模板（区域：广州、四川、上海、福建）</span></div><div class="optionitem">C.<span>电线电缆（区域：全国）</span></div><div class="optionitem">D.<span>钢材（主要包括钢筋、板材、型材）</span></div><div class="optionitem">E.<span>钢筋机械连接套筒</span></div><div class="optionitem">F.<span>智慧工地起重机械（主要为塔机和施工电梯）的安全监控设备</span></div></div><div class="respondence"><span>考生作答:</span> <span>ADF</span></div><div class="respondence"><span>考生得分:</span> <span>0.00</span></div></div><br><br><br/><div class="topic"><div><span class="serial">3.</span><span>项目初期拟定的采购总计划，你觉得哪些是必须提前考虑规划的要素（    ）。 【多选题】</span></div><div class="option"><div class="optionitem">A.<span>采购内容</span></div><div class="optionitem">B.<span>采购预算</span></div><div class="optionitem">C.<span>采购方式</span></div><div class="optionitem">D.<span>采购时间</span></div><div class="optionitem">E.<span>结算时间</span></div></div><div class="respondence"><span>考生作答:</span> <span>ABCD</span></div><div class="respondence"><span>考生得分:</span> <span>2.00</span></div></div><br><br><br/><div class="topic"><div><span class="serial">4.</span><span>必须由投标人公司账户转账缴纳的费用为（    ）。 【多选题】</span></div><div class="option"><div class="optionitem">A.<span>标书费</span></div><div class="optionitem">B.<span>投标保证金</span></div><div class="optionitem">C.<span>履约保证金</span></div><div class="optionitem">D.<span>违约处罚金</span></div><div class="optionitem">E.<span>进度款</span></div></div><div class="respondence"><span>考生作答:</span> <span>BC</span></div><div class="respondence"><span>考生得分:</span> <span>1.00</span></div></div><br><br><br/><div class="topic"><div><span class="serial">5.</span><span>关于公司商务策划的以下说法，哪些是正确的（    ）。 【多选题】</span></div><div class="option"><div class="optionitem">A.<span>商务策划应在开工后2个月内编制完成</span></div><div class="optionitem">B.<span>维修保养项目可不编制商务策划。</span></div><div class="optionitem">C.<span>商务策划包括投标策划、开源策划、成本策划、结算策划、风险防范。</span></div><div class="optionitem">D.<span>商务策划审批通过后不需要动态调整。</span></div><div class="optionitem">E.<span>商务策划可以通过项目管理系统在线发起审批流程。</span></div></div><div class="respondence"><span>考生作答:</span> <span>ACE</span></div><div class="respondence"><span>考生得分:</span> <span>0.00</span></div></div><br><br><br/><div class="topic"><div><span class="serial">6.</span><span>关于材料调差的以下说法，哪些是正确的（    ）。 【多选题】</span></div><div class="option"><div class="optionitem">A.<span>材料调差是指由于市场价格波动导致材料价格与合同约定的价格不一致时，对材料价格进行调整的过程。</span></div><div class="optionitem">B.<span>材料调差通常适用于固定总价合同，不适用于可调价合同。</span></div><div class="optionitem">C.<span>材料调差的依据可以包括招标文件、施工合同、市场价格信息等。</span></div><div class="optionitem">D.<span>材料调差一般需要在工程竣工后进行，以确保所有材料价格都已确定。</span></div><div class="optionitem">E.<span>材料调差的计算方法可以包括价格指数法、加权平均法等。</span></div></div><div class="respondence"><span>考生作答:</span> <span>ACE</span></div><div class="respondence"><span>考生得分:</span> <span>2.00</span></div></div><br><br><br/><div class="topic"><div><span class="serial">7.</span><span>关于公司竣工未结算报表的填报，以下说法正确是（    ）。 【多选题】</span></div><div class="option"><div class="optionitem">A.<span>每个季度除更新结算进展情况，其他数据有变化的也应更新。</span></div><div class="optionitem">B.<span>内部结算收入应扣除上交公司管理费。</span></div><div class="optionitem">C.<span>成本锁定填不含税金额</span></div><div class="optionitem">D.<span>内部结算未办理的填预计金额。</span></div><div class="optionitem">E.<span>正常情况下每个季度最后一月20日前报公司运营管理部</span></div></div><div class="respondence"><span>考生作答:</span> <span>CDE</span></div><div class="respondence"><span>考生得分:</span> <span>0.00</span></div></div><br><br><br/><div class="topic"><div><span class="serial">8.</span><span>在编制内部结算时，以下费用能计入收入的是（    ）。 【多选题】</span></div><div class="option"><div class="optionitem">A.<span>甲供材料、设备。</span></div><div class="optionitem">B.<span>招标文件中的暂列金额</span></div><div class="optionitem">C.<span>还未签字盖章的签证变更实际发生的成本费用</span></div><div class="optionitem">D.<span>已经得到发包人认可的经济签证</span></div><div class="optionitem">E.<span>过程中已得到发包人确认的工程量及费用</span></div></div><div class="respondence"><span>考生作答:</span> <span>DE</span></div><div class="respondence"><span>考生得分:</span> <span>2.00</span></div></div><br><br><br/><div class="topic"><div><span class="serial">9.</span><span>关于计价风险，根据《民航专业工程工程量清单计价规范 (MH 5028—2014) 》，下列因素（    ）出现，影响合同价款调整的，应由发包人承担。 【多选题】</span></div><div class="option"><div class="optionitem">A.<span>国家法律、法规、规章和政策发生变化；</span></div><div class="optionitem">B.<span>省级或行业建设主管部门发布的人工费调整</span></div><div class="optionitem">C.<span>不可抗力发生</span></div><div class="optionitem">D.<span>由政府定价或政府指导价管理的原材料等价格进行了调整</span></div><div class="optionitem">E.<span>主要材料价格大幅波动</span></div></div><div class="respondence"><span>考生作答:</span> <span>ABD</span></div><div class="respondence"><span>考生得分:</span> <span>2.00</span></div></div><br><br><br/><div class="topic"><div><span class="serial">10.</span><span>项目成本分析会的内容应包括以下哪些方面（    ）。 【多选题】</span></div><div class="option"><div class="optionitem">A.<span>工程预算收入、目标成本、实际成本的三算对比分析</span></div><div class="optionitem">B.<span>主要材料、措施费、间接费的预算成本与实际成本对比分析</span></div><div class="optionitem">C.<span>进度偏差情况及后续调整措施</span></div><div class="optionitem">D.<span>合同履约情况及存在的问题</span></div><div class="optionitem">E.<span>对项目后续未完工程的盈亏预测</span></div></div><div class="respondence"><span>考生作答:</span> <span>ABCD</span></div><div class="respondence"><span>考生得分:</span> <span>0.00</span></div></div><br><br><br/><div class="topic"><div><span class="serial">11.</span><span>项目成本管理的主要流程包括以下哪些步骤（    ）。 【多选题】</span></div><div class="option"><div class="optionitem">A.<span>标前预测成本</span></div><div class="optionitem">B.<span>责任成本下达</span></div><div class="optionitem">C.<span>商务策划</span></div><div class="optionitem">D.<span>目标成本编制及分解</span></div><div class="optionitem">E.<span>成本核算</span></div></div><div class="respondence"><span>考生作答:</span> <span>ACDE</span></div><div class="respondence"><span>考生得分:</span> <span>0.00</span></div></div><br><br><br/><div class="topic"><div><span class="serial">12.</span><span>内部结算流程提供的附件资料包括但不限于（    ）。 【多选题】</span></div><div class="option"><div class="optionitem">A.<span>签证单</span></div><div class="optionitem">B.<span>图纸</span></div><div class="optionitem">C.<span>分供商合同</span></div><div class="optionitem">D.<span>工程量计算稿</span></div><div class="optionitem">E.<span>变更指令</span></div></div><div class="respondence"><span>考生作答:</span> <span>ABC</span></div><div class="respondence"><span>考生得分:</span> <span>1.50</span></div></div><br><br><br/><div class="topic"><div><span class="serial">13.</span><span>编制成本月报和进行成本分析中的“三算对比”是指（    ）。 【多选题】</span></div><div class="option"><div class="optionitem">A.<span>预算收入</span></div><div class="optionitem">B.<span>目标成本</span></div><div class="optionitem">C.<span>责任成本</span></div><div class="optionitem">D.<span>实际成本</span></div><div class="optionitem">E.<span>成本降低额</span></div></div><div class="respondence"><span>考生作答:</span> <span>ABD</span></div><div class="respondence"><span>考生得分:</span> <span>2.00</span></div></div><br><br><br/><div class="topic"><div><span class="serial">14.</span><span>成本核算中的”三同步“是指（    ）。 【多选题】</span></div><div class="option"><div class="optionitem">A.<span>施工形象进度</span></div><div class="optionitem">B.<span>目标成本预算</span></div><div class="optionitem">C.<span>实际成本归集</span></div><div class="optionitem">D.<span>实际产值统计</span></div><div class="optionitem">E.<span>报送外部产值</span></div></div><div class="respondence"><span>考生作答:</span> <span>BCD</span></div><div class="respondence"><span>考生得分:</span> <span>0.00</span></div></div><br><br><br/><div class="topic"><div><span class="serial">15.</span><span>项目完工后，公司对整个项目进行盈亏分析，对亏损项目的划分有哪几种（    ）。 【多选题】</span></div><div class="option"><div class="optionitem">A.<span>运营性亏损</span></div><div class="optionitem">B.<span>责任成本亏损</span></div><div class="optionitem">C.<span>完全成本亏损</span></div><div class="optionitem">D.<span>战略性亏损</span></div></div><div class="respondence"><span>考生作答:</span> <span>BC</span></div><div class="respondence"><span>考生得分:</span> <span>2.00</span></div></div><br><br><br/><div class="topic"><div><span class="serial">16.</span><span>下面哪些行为会影响项目季度考核（    ）。 【多选题】</span></div><div class="option"><div class="optionitem">A.<span>成本预算、成本月报未及时上报</span></div><div class="optionitem">B.<span>遇重大变化时成本预算未及时调整</span></div><div class="optionitem">C.<span>主合同及分供方合同未进行交底</span></div><div class="optionitem">D.<span>经济资料未及时归档</span></div><div class="optionitem">E.<span>重点任务清单未完成</span></div></div><div class="respondence"><span>考生作答:</span> <span>ABCDE</span></div><div class="respondence"><span>考生得分:</span> <span>0.00</span></div></div><br><br><br/><div class="topic"><div><span class="serial">17.</span><span>下面哪些情况需要及时调整成本预算（    ）。 【多选题】</span></div><div class="option"><div class="optionitem">A.<span>因价格波动、设计变更增加成本，影响责任指标上交</span></div><div class="optionitem">B.<span>合同收入、成本费用发生重大变化，影响责任指标上交</span></div><div class="optionitem">C.<span>合同收入、成本费用发生重大变化，未影响责任指标上交</span></div><div class="optionitem">D.<span>实际工程量、价与审批的成本预算不一致</span></div><div class="optionitem">E.<span>成本主管部门认为有必要调整的</span></div></div><div class="respondence"><span>考生作答:</span> <span>ABCE</span></div><div class="respondence"><span>考生得分:</span> <span>2.00</span></div></div><br><br><br/><div class="topic"><div><span class="serial">18.</span><span>商务策划包括哪些内容（    ）。 【多选题】</span></div><div class="option"><div class="optionitem">A.<span>开源策划</span></div><div class="optionitem">B.<span>成本策划</span></div><div class="optionitem">C.<span>结算策划</span></div><div class="optionitem">D.<span>风险防范</span></div><div class="optionitem">E.<span>现场策划</span></div></div><div class="respondence"><span>考生作答:</span> <span>ABCDE</span></div><div class="respondence"><span>考生得分:</span> <span>0.00</span></div></div><br><br><h3 class="header">问答题</h3><br/><div class="topic"><div><span class="serial">1.</span><span>请问工程造价的预算包括哪些方面？ 【问答题】</span></div><div class="respondence"><span>考生作答:</span> <span>包括对人材机的收入与支出的分析，并对措施费进行支出分析。对图纸进行工程量复核，确定工程收入，明确目标成本与责任成本。根据图纸及清单内容，合理分析并明确人材机专及其他发包内容及发包金额。</span></div><div class="respondence"><span>考生得分:</span> <span>0.00</span></div><div class="respondence"><span>阅卷人:</span> <span>造价阅卷1</span></div></div><br><br><br/><div class="topic"><div><span class="serial">2.</span><span>请简述造价工程师应该具备哪些能力？ 【问答题】</span></div><div class="respondence"><span>考生作答:</span> <span>应具备清单编制能力、工程量计算及复核能力、成本分析的能力、对现场签证变更索赔文件编制的能力、充分了解清单计价规范及法律法规的能力。</span></div><div class="respondence"><span>考生得分:</span> <span>3.00</span></div><div class="respondence"><span>阅卷人:</span> <span>造价阅卷2</span></div></div><br><br><br/><div class="topic"><div><span class="serial">3.</span><span>案例分析：
+某多层砖混住宅土方工程，已知土壤类别为三类土，基础为砖大放脚带形基础。垫层宽度为920mm，挖土深度为1.8m，工作面宽度两边各为200mm，放坡系数0.33，基础总长度1590.6m，人工挖土，弃土运距4km。
+根据资料，回答问题
+1）试按预算定额规则和工程量清单计价规范规则分别计算土方工程量。
+2）若按预算定额，基价为12.67元/m3，那么挖土方的直接费应为多少？
+3）设按照定额的方案和基价，若采用清单报价，管理费为30%，利润取7%，综合单价为多少？ 【问答题】</span></div><div class="respondence"><span>考生作答:</span> <span>问题1：预算定额规则挖沟槽土方工程量为5471.66m3；工程量清单计价规范挖沟槽土方工程量为2634.03m3。<br/>问题2：挖土方直接费为：69325.93元。<br/>问题3：挖土方综合单价为：17.36元/m3.</span></div><div class="respondence"><span>考生得分:</span> <span>0.00</span></div><div class="respondence"><span>阅卷人:</span> <span>造价阅卷3</span></div></div><br><br><!-- jQuery (Bootstrap 的所有 JavaScript 插件都依赖 jQuery，所以必须放在前边) -->
+<!-- 加载 Bootstrap 的所有 JavaScript 插件。你也可以根据需要只加载单个插件。 -->
+
+
+<script src="https://examadmin.weicewang.com/js/cdn.jquery.min.js"></script>
+<script src="https://examadmin.weicewang.com/bootstrap-3.4.1-dist/js/bootstrap.min.js"></script>
+</body>
+
+</html>
